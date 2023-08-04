@@ -1,0 +1,6 @@
+type: dev-environment
+
+init:
+  - pip install -r stable_diffusion/requirements.txt
+
+ide: vscode
